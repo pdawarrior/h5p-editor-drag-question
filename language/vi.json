@@ -1,16 +1,16 @@
 {
   "libraryStrings":{
-    "insertElement":"Add :type",
-    "done":"Done",
-    "remove":"Remove",
-    "image":"Image",
-    "text":"Text",
-    "noTaskSize":"Please specify task size first.",
-    "confirmRemoval":"Are you sure you wish to remove this element?",
-    "backgroundOpacityOverridden":"The background opacity is overridden",
-    "advancedtext":"Text",
-    "dropzone":"Drop Zone",
-    "selectAll":"Select all",
-    "deselectAll":"Deselect all"
+    "insertElement":"Thêm :type",
+    "done":"Đã xong",
+    "remove":"Loại bỏ",
+    "image":"Hình ảnh",
+    "text":"Văn bản",
+    "noTaskSize":"Xin hãy chỉ định kích cỡ nhiệm vụ trước",
+    "confirmRemoval":"Bạn có chắc muốn loại bỏ phần tử này?",
+    "backgroundOpacityOverridden":"Độ mờ nền được ghi đè",
+    "advancedtext":"Văn bản",
+    "dropzone":"Vùng thả",
+    "selectAll":"Lựa chọn tất cả",
+    "deselectAll":"Bỏ lựa chọn tất cả"
   }
 }
